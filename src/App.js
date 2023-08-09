@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <h2>Demo 02 - Netlify</h2>
       <p>lorem</p>
+      <h2>time : </h2>
       <h3>{time}</h3>
     </div>
   );
